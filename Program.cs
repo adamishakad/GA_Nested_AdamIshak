@@ -62,6 +62,7 @@ namespace GA_Nested_AdamIshak
             {
                 // Step 9: If the condition in Step 3 is false (age < 18), print the message below
                 Console.WriteLine("You are not an adult.");
+               
             }
         }
     }
